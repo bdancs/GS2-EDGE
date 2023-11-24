@@ -6,7 +6,7 @@
 <div align="justify">Este projeto foi desenvolvido para monitorar dados vitais, como batimentos cardíacos e mobilidade, de pacientes que passarão o período de doença em casa, sem a presença de acompanhantes. Isso facilita o monitoramento e agiliza a resposta da equipe de socorro, com o principal objetivo de prevenir o óbito de pacientes enviados para casa devido à negligência médica.</div>
 
 ## De onde surgiu
-Durante o período de avaliação, um dos membros da equipe vivenciou a perda de alguém muito importante devido à negligência médica. A ideia surgiu pensando em todas as pessoas que já passaram por experiências semelhantes.
+Durante o período de avaliação, um dos membros da equipe vivenciou a perda de alguém muito importante devido à negligência médica.
 
 # Recursos necessários para a implementação
 - ESP32, tornando a conexão por WI-FI entre o sistema operacional e o sensor possível;
