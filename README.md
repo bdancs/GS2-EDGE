@@ -28,7 +28,7 @@ Durante o período de avaliação, um dos membros da equipe vivenciou a perda de
 10. As pulseiras serão coletadas, higienizadas e, em seguida, redistribuídas para os postos/hospitais.
 
 ## Demonstração do funcionamento
-[Link da demonstração do funcionamento do sistema de alarme de forma simplificada(sem o ESP32)](https://www.tinkercad.com/things/9rcP97f9xNt)
+[Link da demonstração do funcionamento do sistema](WOKWI)
 
 ### Código usado no ESP-32 para a demonstração
 [Código do ESP-32](codigoFuncionamento.ino)
