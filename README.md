@@ -21,11 +21,11 @@ Durante o período de avaliação, um dos membros da equipe vivenciou a perda de
     - O período de funcionamento é determinado pelo tempo que o paciente estará tomando o remédico + 5 dias.
 4. O sensor coleta informações sobre o paciente a todo momento;
 5. Esses dados são passados para o sistema principal através do ESP32(WI-FI);
-6-1. Caso os batimentos cardiácos e a movimentação estejam normais, nada ocorre;
-6-2. Caso o acelerômetro detecte uma parada brusca, por exemplo indicando uma queda, o sensor irá medir os batimentos cardiácos;
-7. Dependendo do que o paciente escolheu quando pegou a pulseira na recepção do posto de saúde/hospital, algum contato de emergência ou o SAMU será acionado;
-8. Quando o período de funcionamento da pulseira acabar, o paciente a levará até o posto de saúde ou farmácia mais próxima;
-9. As pulseiras serão coletadas, higienizadas e, em seguida, redistribuídas para os postos/hospitais.
+6. Caso os batimentos cardiácos e a movimentação estejam normais, nada ocorre;
+7. Caso o acelerômetro detecte uma parada brusca, por exemplo indicando uma queda, o sensor irá medir os batimentos cardiácos;
+8. Dependendo do que o paciente escolheu quando pegou a pulseira na recepção do posto de saúde/hospital, algum contato de emergência ou o SAMU será acionado;
+9. Quando o período de funcionamento da pulseira acabar, o paciente a levará até o posto de saúde ou farmácia mais próxima;
+10. As pulseiras serão coletadas, higienizadas e, em seguida, redistribuídas para os postos/hospitais.
 
 ## Demonstração do funcionamento
 [Link da demonstração do funcionamento do sistema de alarme de forma simplificada(sem o ESP32)](https://www.tinkercad.com/things/9rcP97f9xNt)
