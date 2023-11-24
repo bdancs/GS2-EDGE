@@ -27,7 +27,7 @@ Durante o período de avaliação, um dos membros da equipe vivenciou a perda de
 9. Quando o período de funcionamento da pulseira acabar, o paciente a levará até o posto de saúde ou farmácia mais próxima;
 10. As pulseiras serão coletadas, higienizadas e, em seguida, redistribuídas para os postos/hospitais.
 
-## Demonstração do funcionamento
+## Demonstração do funcionamento (WOKWI)
 [Link da demonstração do funcionamento do sistema](WOKWI)
 
 ### Código usado no ESP-32 para a demonstração
