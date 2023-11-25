@@ -1,4 +1,4 @@
-# Participantes
+# Participantes (1ESPG)
 - Bianca Carvalho Dancs Firsoff     - RM551645
 - Gabriel Machado Carrara Pimentel  - RM99880
 
