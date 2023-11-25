@@ -34,7 +34,7 @@ Durante o período de avaliação, um dos membros da equipe vivenciou a perda de
 [Código do ESP-32](pulseira.ino)
 
 ### Vídeo da demonstração :
-[YOUTUBE](https://youtu.be/dfqplwQoEUk)
+[YOUTUBE](https://youtu.be/5j3m3gKmQnY)
 
 # OBSERVAÇÃO
 Coloquei a pasta zipada com todos os componentes que o WOKWI da só por precaução
