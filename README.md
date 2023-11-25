@@ -28,7 +28,7 @@ Durante o período de avaliação, um dos membros da equipe vivenciou a perda de
 10. As pulseiras serão coletadas, higienizadas e, em seguida, redistribuídas para os postos/hospitais.
 
 ## Demonstração do funcionamento (WOKWI)
-[Link da demonstração do funcionamento do sistema](WOKWI)
+[Link da demonstração do funcionamento do sistema](https://wokwi.com/projects/382329660081844225)
 
 ### Código usado no ESP-32 para a demonstração
 [Código do ESP-32](codigoFuncionamento.ino)
