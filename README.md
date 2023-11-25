@@ -35,3 +35,6 @@ Durante o período de avaliação, um dos membros da equipe vivenciou a perda de
 
 ### Vídeo da demonstração :
 [YOUTUBE](https://youtu.be/dfqplwQoEUk)
+
+# OBSERVAÇÃO
+Coloquei a pasta zipada com todos os componentes que o WOKWI da só por precaução
