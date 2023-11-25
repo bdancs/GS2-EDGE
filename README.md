@@ -31,7 +31,7 @@ Durante o período de avaliação, um dos membros da equipe vivenciou a perda de
 [Link da demonstração do funcionamento do sistema](https://wokwi.com/projects/382329660081844225)
 
 ### Código usado no ESP-32 para a demonstração
-[Código do ESP-32](codigoFuncionamento.ino)
+[Código do ESP-32](pulseira.ino)
 
 ### Vídeo da demonstração :
 [YOUTUBE](https://youtu.be/dfqplwQoEUk)
